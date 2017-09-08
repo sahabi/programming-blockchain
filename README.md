@@ -9,6 +9,7 @@ Check out [Jimmy's blog!](https://medium.com/@jimmysong/)
 Run the following commands:
 
 ```
+sudo pip install pycoin
 sudo pip install jupyter
 git clone https://github.com/sahabi/programming-blockchain.git
 cd programming-blockchain
