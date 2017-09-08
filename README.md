@@ -11,7 +11,7 @@ jupyter notebook
 
 On your browser you can select the notebook. 
 
-The code snippets were run using Python 2.7. There is no guruantee with Python 3.
+Notebooks were tested only on Python 2.7 and Ubuntu 14.04.
 
 
 #### TODO
