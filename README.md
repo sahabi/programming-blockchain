@@ -1,6 +1,6 @@
 #### Description
 
-The notebooks are a collection of examples and exercises put together by the Bitcoin Core developer Jimmy Song for his seminar Programming Blockchain.
+The notebooks are a collection of examples and exercises that were taught at Jimmy Song seminar *Programming Blockchain*. 
 
 Check out [Jimmy's blog!](https://medium.com/@jimmysong/)
 
