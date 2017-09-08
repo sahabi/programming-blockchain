@@ -21,11 +21,12 @@ The code snippets were run using Python 2.7. There is no guruantee with Python 3
 - [ ] Fix the encryption example in Session 2
 
 
-#### Contribution
+#### Contributions
 
 All contributions are welcome.
 
 
-#### Donate
+#### Donations
 
-3G8XYSJCBCzWcdcrWQW1e4Nm9CLbt9gq3X  
+BTC: 3G8XYSJCBCzWcdcrWQW1e4Nm9CLbt9gq3X
+![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
