@@ -29,4 +29,5 @@ All contributions are welcome.
 #### Donations
 
 BTC: 3G8XYSJCBCzWcdcrWQW1e4Nm9CLbt9gq3X
+
 ![Alt text](https://github.com/sahabi/programming-blockchain/blob/master/donate.png?raw=true "Optional Title")
