@@ -20,6 +20,10 @@ Notebooks were tested only on Python 2.7 and Ubuntu 14.04.
 - [ ] Include the answers to the excercises. Maybe in a seperate notebook?
 - [ ] Fix the encryption example in Session 2
 
+#### Issues
+
+Please open a new issue if you want something fixed. Or contribute!
+
 
 #### Contributions
 
