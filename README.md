@@ -4,6 +4,8 @@ The notebooks are based on the examples and exercises that were taught at Jimmy 
 
 Check out [Jimmy's blog!](https://medium.com/@jimmysong/)
 
+[Update] Jimmy created his own exercise notebooks: https://github.com/jimmysong/pb-exercises
+
 #### How to start
 
 Run the following commands:
@@ -38,7 +40,4 @@ All contributions are welcome.
 
 
 #### Donations
-
-BTC: 3G8XYSJCBCzWcdcrWQW1e4Nm9CLbt9gq3X
-
-![Alt text](https://github.com/sahabi/programming-blockchain/blob/master/donate.png?raw=true "Optional Title")
+3G8XYSJCBCzWcdcrWQW1e4Nm9CLbt9gq3X
