@@ -37,7 +37,3 @@ Please open a new issue if you want something fixed. Or contribute!
 #### Contributions
 
 All contributions are welcome.
-
-
-#### Donations
-3G8XYSJCBCzWcdcrWQW1e4Nm9CLbt9gq3X
